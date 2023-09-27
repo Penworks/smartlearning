@@ -5,6 +5,7 @@
 layout: home
 ---
 
-hell there baby!
+## Hello. 
 
-its not very quick no Im wrong its super quick 
+This is the test repository Git Pages site so allow me to understand the Jekyll process, and how to get used to various jekyllish commands like bundle exec jekyll serve and such. Its super exiting and Im reeeeally pleased cos this knowledge will allow me to make lovely static verisoned websites and basicallylook very groovy indeed.
+
