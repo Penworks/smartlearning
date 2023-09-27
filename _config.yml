@@ -31,10 +31,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  penworks
 
 # Build settings
-# theme: minima
+theme: minima
 # new theme test penworks
 # theme: jekyll-theme-horizon-flow
-remote_theme: papierkorp/jekyll-theme-horizon-flow #if you host on github pages
+# remote_theme: papierkorp/jekyll-theme-horizon-flow #if you host on github pages
 plugins:
   - jekyll-feed
 
