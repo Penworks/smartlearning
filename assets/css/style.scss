@@ -1,0 +1,33 @@
+---
+---
+@import "{{ site.theme }}";
+
+#menu-main-navigation {
+
+	height: auto;
+	// margin-bottom: 10px;
+	// background-color: grey;
+}
+
+.menu{
+    
+	border-bottom: 4px solid orange !important;
+}
+
+li .menu-item {
+	display:inline-block;
+	font-family: inherit;
+	font-weight:600 !important;
+  //  font-size: 1em;
+  //  line-height: 1.5;
+  //  color: #6d6d6d;	
+}
+
+li .menu-item a {
+	color: black !important;
+}
+
+
+li .menu-item a:hover {
+	color: light-grey !important;
+}

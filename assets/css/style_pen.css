@@ -1,0 +1,9 @@
+/*penworks tactile additions*/
+
+nav #primary-nav .site-nav {
+	background-color: red;
+}
+
+.menu{
+	border: 1px solid black !important;
+}
