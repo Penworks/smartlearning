@@ -14,7 +14,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site is an archive of work containing the technical, design and content used to build smart 
   learning journeys with augmented reality, maps and communications. 
   It formed the technical aspects of a PhD in smart learning, 2016-2021.
-tagline: a site about smart learning
+tagline: A site about smart learning
 baseurl: "/smart01" # the subpath of your site, e.g. /blog
 url: "https://penworks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
