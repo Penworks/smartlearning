@@ -2,7 +2,7 @@
 layout: default
 title:  "Apps and Technologies"
 date:   2016-10-10 10:30:30 +0200
-categories: Tutorials-and-Guides
+categories: tutorials-guides
 tags: [apps, technology]
 ---
 
