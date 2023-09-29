@@ -2,32 +2,40 @@
 ---
 @import "{{ site.theme }}";
 
-#menu-main-navigation {
 
-	height: auto;
-	// margin-bottom: 10px;
-	// background-color: grey;
+// ==============
+// nav styles added to the tactile theme penworks.net sept 2023 
+// ===============
+
+#primary-nav {
+	max-width: 620px;
+    margin: 0 auto;
+	font-family: inherit;
+	font-weight:600 !important;
 }
-
+#primary-nav li {
+	list-style: none !important;
+}
+#primary-nav li a {
+	color: #6d6d6d;
+}
+#primary-nav li a:hover {
+	color: orange;
+}
+#menu-main-navigation {
+	height: auto;
+	display: flex;
+    justify-content:space-around;
+    list-style-type:none;
+}
 .menu{
-    
 	border-bottom: 4px solid orange !important;
 }
 
 li .menu-item {
-	display:inline-block;
-	font-family: inherit;
-	font-weight:600 !important;
+  // display: inline;
   //  font-size: 1em;
   //  line-height: 1.5;
   //  color: #6d6d6d;	
 }
 
-li .menu-item a {
-	color: black !important;
-}
-
-
-li .menu-item a:hover {
-	color: light-grey !important;
-}
