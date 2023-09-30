@@ -1,0 +1,77 @@
+---
+layout: default
+---
+
+
+
+<div class="blog list">
+    <h1>Filed Under <small>#{{ page.tag }}</small></h1>
+
+    {% for post in site.categories[page.tag] %}
+        {% include post_preview.html %}
+    {% endfor %}
+</div>
+
+
+
+
+
+
+version 3
+<!-- # blog ichibod -->
+{% for post in site.posts %}
+{% for c in post.categories %}
+{% if post.category == c %}
+
+ <li><span>{{ p.date | date_to_string }}</span> &nbsp; <a href="{{ p.url | relative_url }}" itemprop="url"><span itemprop="name"> {{ p.title }}</span></a></li>
+     </ul>
+    </li>
+{% endif %}
+{% endfor %}
+{% endfor %}
+
+
+version 2
+<!-- kyle -->
+<div class="blog list">
+    <h1>Filed Under <small>#{{ post.category }}</small></h1>
+
+    {% for post in site.categories[post.category] %}
+    <!--IS WONT WORK BC ITS NOT SET TO DISPLAY ANYTHING -->
+   <li><span>{{ p.date | date_to_string }}</span> &nbsp; <a href="{{ p.url | relative_url }}" itemprop="url"><span itemprop="name"> {{ p.title }}</span></a></li>
+     </ul>
+        {!--{% include post_preview.html %}--}
+    {% endfor %}
+</div>
+
+<br><br>
+
+version 1 
+
+<ul class="secondary-nav">
+
+  {% assign categories = post.categories | default: post.title %}
+  {% for post in site.categories[page.category] %}
+    <li>test
+      <h3>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+        </a>
+        <small>{{ p.date | date_to_string }}</small>
+      </h3>
+    </li>
+  {% endfor %}
+</ul>
+
+
+
+
+<h1>{{ post.category }}</h1>
+
+<ul>
+{% for post in site.categories[post.category] %}
+  <li>
+    {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>

@@ -28,12 +28,33 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 #
 collections:
-  categories:
-    output: true
-    permalink: category/:title/
-  tags:
-    output: true
-    permalink: tag/:title/
+categories:
+     # - tutorials-and-guides
+     # - general
+  output: true
+  permalink: /:categories/:title/
+  defaults:
+  -
+    scope:
+      path: ""
+      type: categories
+    values:
+      layout: category
+tags:
+  # - apps
+  # - technology
+  output: true
+  permalink: /:tag/:title/
+  defaults:
+  -
+    scope:
+      path: ""
+      type: tags
+    values:
+      layout: default
+
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
