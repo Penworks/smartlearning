@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Site
+title: SiteGuide
 permalink: /site/
 description: This page contains all the categorized posts from the smart learning website. This is an archive of work from 2016-2021.
 ---
+This page provides ways to navigate the content of the archive. Use category collections to view content related to catgeoy or use the chronological list of posts to see conent in a timeline of often posts in simialr or related contexts.
 
 
 ## Category posts
