@@ -6,24 +6,27 @@ description: This page contains all the categorized posts from the smart learnin
 ---
 
 
-## Tutorials and Guides
+## Category posts
+<!--using the code from https://blog.webjeda.com/jekyll-categories/-->
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
 
-<nav id="secondary-nav">
-	<ul>
-{% for p in site.categories.tutorials-and-guides %}
- <li><span>{{ p.date | date_to_string }}</span> &nbsp; <a href="{{ p.url | relative_url }}" itemprop="url"><span itemprop="name"> {{ p.title }}</span></a></li>
-{% endfor %}
-     </ul>
-</nav>
+    <h4 class="category-head">{{ category_name }}</h4>
+    <a name="{{ category_name | slugize }}"></a>
+       <ul class="secondary-nav"> {% for post in site.categories[category_name] %}
 
-## General
-<nav id="secondary-nav">
-	<ul>
-{% for p in site.categories.general %}
- <li><span>{{ p.date | date_to_string }}</span> &nbsp; <a href="{{ p.url | relative_url }}" itemprop="url"><span itemprop="name"> {{ p.title }}</span></a></li>
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+   
+    {% endfor %} </ul>
+
+  </div>
 {% endfor %}
-     </ul>
-</nav>
+</div>
+
 
 
 ## All posts in chronological order
@@ -36,69 +39,3 @@ description: This page contains all the categorized posts from the smart learnin
 
 </ul>
 </nav>
-
-
-<!-- <div class="blog list">
-    <h1>Filed Under <small>#{{ page.tag }}</small></h1>
-
-    {% for post in site.categories[page.tag] %}
-        {% include post_preview.html %}
-    {% endfor %}
-</div>
- -->
-
-
-
-<!-- {% for category in site.categories %}
-    {{ category | first }}
-{% endfor %}
- -->
-
-
-<!-- <div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %} Categories:
-  {% for category in categories %}
- <a href="{{site.baseurl}}/categories/{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %} | {% endunless %}
-  {% endfor %}
-</div> -->
-
-
-
-
-
-
-
-
-<!-- {% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
- -->
-
-
-
-<!-- <nav id="primary-nav" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Main navigation">
-  <ul id="menu-main-navigation" class="menu">
-{% for path in page_paths %}
-      {% assign my_page = site.pages | where: "path", path | first %}
-      {% if my_page.title %}
-        <li class="menu-item">
-          <a href="{{ my_page.url | relative_url }}" itemprop="url">
-            <span itemprop="name">{{ my_page.title | escape }}</span>
-          </a>
-        </li>
-      {% endif %}
-    {% endfor %}
-     </ul>
-</nav> -->
-
-

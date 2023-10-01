@@ -1,38 +1,13 @@
 ---
-layout: default
+layout: post
 title:  "Apps and Technologies"
 date:   2016-10-10 10:30:30 +0200
-categories: tutorials-and-guides
+categories: [Tutorials and Guides]
 tags: [apps, technology]
 ---
 
 
 **Apps and Technologies, By Pen Lister. October 10, 2016**
-
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %} Categories:
-  {% for category in categories %}
- <a href="{{site.baseurl}}/category/{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %} | {% endunless %}
-  {% endfor %}
-</div>
-
-<div class="post-tags">
-  {% if post %}
-    {% assign tags = post.tags %}
-  {% else %}
-    {% assign tags = page.tags %}
-  {% endif %}  Tags:
-  {% for tag in tags %}
-<a href="{{site.baseurl}}/tags/{{tag|slugize}}">{{tag}}</a>
-  {% unless forloop.last %} | {% endunless %}
-  {% endfor %}
-</div>
-
 
 
 ![Someone using a smartphon to trigger AR content]({{site.baseurl}}/assets/images/photo-1472143684393-8b081cb2e899.jpeg)
@@ -102,23 +77,3 @@ Use any or several of the hashtags below if you like, to help locate relevant so
 - #literarylondon
 - Smartlearning
 
----
-
-##### **Articles in this series**
-
-
-<div class="related">
-    <h3>Related Posts</h3>
-    {% assign firstCategory = page.categories | first %}
-    {% assign relatedCount = 0 %}
-    {% for related in site.categories[firstCategory] %}
-        {% unless page.permalink == related.permalink %}
-            {% assign relatedCount = relatedCount | plus: 1 %}
-            <a href="{{related.permalink}}">{{ related.title }}</a>
-        {% endunless %}
-
-        {% if relatedCount == 3 %}
-            {% break %}
-        {% endif %}
-    {% endfor %}
-</div>

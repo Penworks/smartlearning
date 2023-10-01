@@ -18,6 +18,8 @@ tagline: A site about smart learning
 baseurl: "/smart01" # the subpath of your site, e.g. /blog
 url: "https://penworks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
+#add exlcusion of ugly category segments in url structure. this is from he categories plugin recommendation
+permalink: /:year/:month/:day/:title:output_ext
 github_username:  penworks
 
 # Build settings
