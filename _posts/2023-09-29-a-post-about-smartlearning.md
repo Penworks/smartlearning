@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Test Post About Smart Learning"
+title:  "A Post About Smart Learning"
 date:   2023-09-29 10:30:30 +0200
 categories: [General, Tutorials and Guides]
 ---
 
 
-This is a post to introduce all the other posts. Lots more text goes here ten some image to test
+This is a post to introduce the smart learning archive. 
+
 
 ![image]({{site.baseurl}}/assets/images/genart01.jpg)
 
