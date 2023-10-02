@@ -20,6 +20,7 @@ url: "https://penworks.github.io" # the base hostname & protocol for your site, 
 # twitter_username: jekyllrb
 #add exlcusion of ugly category segments in url structure. this is from he categories plugin recommendation
 permalink: /:year/:month/:day/:title:output_ext
+# permalink: /:category/:title/
 github_username:  penworks
 
 # Build settings
@@ -30,11 +31,9 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 #
 collections:
-categories:
-     # - tutorials-and-guides
-     # - general
+category:
   output: true
-  permalink: /:categories/:title/
+  permalink: /:category/:title:output_ext
   defaults:
   -
     scope:
@@ -42,9 +41,7 @@ categories:
       type: categories
     values:
       layout: category
-tags:
-  # - apps
-  # - technology
+tag:
   output: true
   permalink: /:tag/:title/
   defaults:

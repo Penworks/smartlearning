@@ -1,7 +1,8 @@
 ---
 layout: category
-title: tutorials and guides
-permalink: category/tutorials-and-guides
+title: Tutorials and Guides
+description: a page for tutorials and guides posts
+permalink: category/Tutorials%20and%20Guides
 exclude: true
 ---
 

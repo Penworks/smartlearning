@@ -1,6 +1,6 @@
 ---
 layout: category
-title: general
+title: General
 permalink: category/general
 exclude: true
 ---
