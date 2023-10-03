@@ -33,7 +33,7 @@ plugins:
 collections:
 category:
   output: true
-  permalink: /:category/:title:output_ext
+  permalink: /:category/:title
   defaults:
   -
     scope:

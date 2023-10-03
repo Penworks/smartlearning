@@ -5,6 +5,7 @@ date:   2016-10-10 10:30:30 +0200
 description: This post is intended for those who are creating learning journey Points of Interest which form a learning experience with a single theme or topic. You need to have a basic grasp of how Google Maps accounts work, and understand general concepts of GPS location based technology.
 categories: [Tutorials and Guides]
 tags: [maps, technology]
+permalink: 
 ---
 
 **Guide to making a customised Google map, By Pen Lister. October 19, 2016. Categories: Tutorials and Guides Tags: maps, technology**

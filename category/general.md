@@ -1,7 +1,8 @@
 ---
 layout: category
 title: General
-permalink: category/general
+description: posts in the category 'General'
+permalink: category/General
 exclude: true
 ---
 

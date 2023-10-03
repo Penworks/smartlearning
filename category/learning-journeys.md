@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Learning Journeys
-description: a page for learning journey posts
-permalink: category/Learning%20Journeys
+description: posts in the category 'learning journeys'
+permalink: category/Learning Journeys
 exclude: true
 ---
