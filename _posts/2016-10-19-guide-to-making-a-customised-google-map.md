@@ -6,6 +6,7 @@ description: This post is intended for those who are creating learning journey P
 categories: [Tutorials and Guides]
 tags: [maps, technology]
 permalink: 
+vimeoId: 187983602
 ---
 
 **Guide to making a customised Google map, By Pen Lister. October 19, 2016. Categories: Tutorials and Guides Tags: maps, technology**
@@ -31,7 +32,10 @@ This tutorial will guide you through the main steps for creating a customised Go
 
 Scroll down for each step, or watch the video first, which shows you around the interface of creating a Google custom map.
 
-<iframe src="https://player.vimeo.com/video/187983602" width="640" height="340" frameborder="0"></iframe>
+<!-- <iframe src="https://player.vimeo.com/video/187983602" width="640" height="340" frameborder="0"></iframe> -->
+
+{% include vimeoplayer.html id=page.vimeoId %}
+
 *VIDEO: A brief overview of the Google My Maps interface – no audio.*
 
 ### **Step 1. Finding Google 'My Maps' and creating a new map**
