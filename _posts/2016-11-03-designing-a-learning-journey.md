@@ -120,7 +120,6 @@ _Pedagogies to research: mobile, location based, gamification, guide on-the-side
 
 All journeys can be complete in themselves as you proceed along a map of learning location points, but they can also be part of classroom activities. This is sometimes known as seamless learning. Some tasks are classroom based, others ask the learner to go out and take part in a specified journey. Think about how you want your journey to work in relation to class work, or a fictitious work project, for example.
 
-![Shape11](RackMultipart20230926-1-xe4lmc_html_981da44633f54b92.gif)
 
 ##### **General Links**
 
