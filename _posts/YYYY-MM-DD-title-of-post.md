@@ -11,11 +11,7 @@ tags: [tag, tag]
 
 ![title text here]({{site.baseurl}}/assets/images/...)
 
+<img src="{{site.baseurl}}/assets/images/..." width="350" height="auto">
 
 
-
-
-
-
----
 

@@ -26,12 +26,11 @@ this was the only way I could get this to ork. Im sure someone else who knows a 
 
 <!-- pull the posts from the current category using current_cat -->
 {% for post in site.categories[current_cat] %}
-    <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>  
+    <ul><li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>  
     {% endfor %} </ul>
 
 
 
-</ul>
 
 
 
