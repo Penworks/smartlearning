@@ -56,3 +56,25 @@ li .menu-item {
   //  color: #6d6d6d;	
 }
 
+
+/* =========================
+VIDEO RESPONSIVE STYLES TO WORK WITH VIDEOPLAYER INCLUDE 
+*remember to add the vimeo or other video player frontmatter video ID
+this is from https://github.com/nathancy/jekyll-embed-video#responsive-videos
+=======================*/
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
