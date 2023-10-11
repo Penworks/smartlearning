@@ -8,9 +8,12 @@ This page provides ways to navigate the content of the archive. Use category col
 
 
 ## Posts by Category
-<!--using the code from https://blog.webjeda.com/jekyll-categories/-->
+<!--
+using the code from https://blog.webjeda.com/jekyll-categories/
+for reversed order using https://templates.supply/sort-jekyll-collection-by-reverse-order-and-limit-results/ 
+-->
 <div id="archives">
-{% for category in site.categories %}
+{% for category in site.categories reversed %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
@@ -31,7 +34,7 @@ This page provides ways to navigate the content of the archive. Use category col
 ## Posts by Tag
 <!--using the code from https://blog.webjeda.com/jekyll-categories/-->
 <div id="archives">
-{% for tag in site.tags %}
+{% for tag in site.tags reversed %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <div id="#{{ tag_name | slugize }}"></div>
