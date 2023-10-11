@@ -7,6 +7,25 @@
 // nav styles added to the tactile theme penworks.net sept 2023 
 // ===============
 
+a {
+	color: #F45708;
+}
+
+h3 {
+	color: #900C3F;
+}
+ul {
+  padding-left: 20px;
+}
+ul li {
+	list-style-type: square;
+	/*list-style-type: " - ";*/
+	list-style-position: outside;
+	padding: 5px 0px 5px 0px;
+	/*margin-left: -5px;
+	text-indent: 2em;*/
+}
+
 #primary-nav, #secondary-nav {
 	max-width: 620px;
     margin: 0 auto;
