@@ -4,7 +4,7 @@ title:  "Smart Learning Feedback Maps"
 date:   2016-12-09 10:30:30 +0200
 description: Visualisations of feedback from learners taking part in smart learning journeys
 categories: [Tutorials and Guides, Maps]
-tags: [feedback, maps]
+tags: [feedback]
 ---
 
 **Smart Learning Feedback Maps, By Pen Lister. December 9, 2016. Categories: Tutorials and Guides Tags: feedback, maps**

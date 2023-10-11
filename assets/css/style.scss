@@ -22,13 +22,15 @@ ul li {
 	/*list-style-type: " - ";*/
 	list-style-position: outside;
 	padding: 5px 0px 5px 0px;
-	/*margin-left: -5px;
-	text-indent: 2em;*/
+}
+
+ul#menu-main-navigation {
+	padding-left: 0;
 }
 
 #primary-nav, #secondary-nav {
 	max-width: 620px;
-    margin: 0 auto;
+  margin: 0 auto;
 	font-family: inherit;
 	font-weight:600 !important;
 }

@@ -4,7 +4,7 @@ title:  "Literary London Map"
 date:   2017-09-24 10:30:30 +0200
 description: This post is the map of the Literary London Smart Learning Journey 
 categories: [Literary London, Learning Journeys, Maps]
-tags: [maps, UK, London]
+tags: [London]
 ---
 
 **Literary London Map, By Pen Lister. September 24, 2017. Categories: Literary London, Learning Journeys, Maps. Tags: maps, UK, London**

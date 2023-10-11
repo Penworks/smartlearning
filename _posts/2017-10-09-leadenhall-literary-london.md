@@ -4,7 +4,7 @@ title:  "Leadenhall, Literary London"
 date:   2016-10-10 10:30:30 +0200
 description: This post is intended for use with the Literary London walking tour and smart learning activities.
 categories: [Literary London, Learning Journeys]
-tags: [learning-stops]
+tags: [learning-stops, London]
 ---
 
 **Leadenhall, Literary London, By Pen Lister. October 9, 2017. Categories: Tags: apps, aurasma, images**

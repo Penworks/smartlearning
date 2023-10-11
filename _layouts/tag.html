@@ -1,15 +1,18 @@
 ---
 layout: default
-permalink: /category/
+permalink: /tag/
 ---
 
 
-<!-- get the category from the url -->
+<!-- get the tag from the url -->
 
-{% assign current_cat = page.url | split: "/" | last %}
+{% assign current_tag = page.url | split: "/" | last %}
 
 <!--
 =============================
+
+this works the same for tags
+
 'for post in site.categories...' is' from the snippet for calling a group of catgeroies. To make this work with the category key value in the front matter it must match the title of the page - eg front matter is:
 
 ---
@@ -24,8 +27,8 @@ this was the only way I could get this to ork. Im sure someone else who knows a 
 =============================
 -->
 
-<!-- pull the posts from the current category using current_cat -->
-<ul>{% for post in site.categories[current_cat] %}
+<!-- pull the posts from the current tag using current_tag -->
+<ul>{% for post in site.tags[current_tag] %}
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>  
     {% endfor %} </ul>
 

@@ -61,7 +61,7 @@
                 {% assign tags = page.tags %}
               {% endif %}  Tags:
               {% for tag in tags %}
-            <a href="{{site.baseurl}}/tag/{{tag|slugize}}">{{tag}}</a>
+            <a href="{{site.baseurl}}/tag/{{tag}}">{{tag}}</a>
               {% unless forloop.last %} {% endunless %}
               {% endfor %}
             </div>

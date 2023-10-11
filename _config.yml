@@ -50,7 +50,7 @@ tag:
       path: ""
       type: tags
     values:
-      layout: default
+      layout: tag
 
 
 
