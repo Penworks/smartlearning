@@ -14,14 +14,25 @@ a {
 h3 {
 	color: #900C3F;
 }
+
 ul {
   padding-left: 20px;
 }
+
 ul li {
 	list-style-type: square;
 	/*list-style-type: " - ";*/
 	list-style-position: outside;
 	padding: 5px 0px 5px 0px;
+}
+
+.post-thumb {
+	max-width:90px;
+	max-height: 90px;
+}
+
+#main_content {
+	word-wrap: break-word;
 }
 
 ul#menu-main-navigation {
@@ -62,6 +73,81 @@ left: 20px;*/
 	padding: 5px 0px 5px 0px;
 	text-indent: 1em;
 }
+
+blockquote {    
+	padding: 0 0 0 30px;
+  margin-bottom: 20px;
+  font-size: 1.2em;
+  font-style: italic;
+  font-weight:500;
+  border-left: 3px solid orange;
+}
+
+
+
+.tagcloud-wrapper {
+    float:right;
+    width:75%;
+}
+
+.tagger {
+    display:inline;
+    width: 50%;
+    border-top: none;
+    box-shadow: none;
+    margin: 5px 5px 5px 5px;
+}
+
+.tagger ul.tagcloud li {
+    list-style: none;
+    display: inline-block;
+    background-color: /*#524f4b*/ #F45708;
+    border-radius: 0.2em;
+    width: auto;
+    padding: 1px 3px 1px 3px;
+    margin: 2px auto;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.tagger .tagcloud a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/* Related posts */
+.rect {
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+    padding-top: 15px;
+    margin:0 auto;
+}
+
+.rel {
+    width: 200px;
+    display: inline-block;
+    padding: 5px;
+    opacity: 0.8;
+}
+
+.rel hover {
+     opacity: 1;    
+}
+
+
+
+
+
+
+/*====================
+
+STYLES NOT USED
+
+====================== */
+
+
+
 /* #secondary-nav li a {
 	color: #6d6d6d;
 }
@@ -69,6 +155,10 @@ left: 20px;*/
 	color: orange;
 }
 */
+
+
+
+
 
 li .menu-item {
   // display: inline;

@@ -5,6 +5,7 @@ date:   2016-10-10 10:30:30 +0200
 description: This post is intended for use with the Literary London walking tour and smart learning activities and was originally only available via the Aurasma AR trigger.
 categories: [Literary London, Learning Journeys]
 tags: [learning-point, London]
+image: Leadenhall_Market_entrance_Illustrated_London_New_1881.jpg
 ---
 
 **Leadenhall, Literary London, By Pen Lister. October 9, 2017. Categories: Literary London, Learning Journeys. Tags: learning-point, London**
@@ -31,6 +32,7 @@ _The third, and last square, which is also very large, is divided into three par
 
 From: http://www.visionofbritain.org.uk/travellers/Defoe/19
 
+---
 
 #### **Aspects of this place to think about**
 

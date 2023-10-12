@@ -5,6 +5,7 @@ date:   2016-11-03 10:30:30 +0200
 description: This post is aimed at learning designers and content creators who are involved in developing learning journeys in a smart city.
 categories: [Tutorials and Guides, Learning Journeys]
 tags: [learning-design]
+image: designing-a-learning-journey-feat.jpeg
 ---
 
 **Designing a Learning Journey, By Pen Lister. November 3, 2016. Categories: Tutorials and Guides, Learning Journeys Tags: learning design, pedagogy**

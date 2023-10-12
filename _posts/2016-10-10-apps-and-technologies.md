@@ -4,6 +4,7 @@ title:  "Apps and Technologies"
 date:   2016-10-10 10:30:30 +0200
 categories: [Tutorials and Guides]
 tags: [technology]
+image: photo-1472143684393-8b081cb2e899.jpeg
 ---
 
 

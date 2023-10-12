@@ -5,6 +5,7 @@ date:   2016-10-13 10:30:30 +0200
 description: This post is intended for learning designers and learning content developers and guides you through the main considerations of creating a learning journey for a smart city.
 categories: [Tutorials and Guides]
 tags: [learning-design]
+image: creating-a-learning-journey-img1.jpg
 ---
 
 

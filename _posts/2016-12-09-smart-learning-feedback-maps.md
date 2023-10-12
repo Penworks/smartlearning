@@ -5,6 +5,7 @@ date:   2016-12-09 10:30:30 +0200
 description: Visualisations of feedback from learners taking part in smart learning journeys
 categories: [Tutorials and Guides, Maps]
 tags: [feedback]
+image: smart-learning-feedback-maps-screenshot-2021-02-14-07_28_27.png
 ---
 
 **Smart Learning Feedback Maps, By Pen Lister. December 9, 2016. Categories: Tutorials and Guides Tags: feedback, maps**

@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "St Olave's, Literary London"
-date:   2016-10-10 10:30:30 +0200
+date:   2017-10-09 10:30:30 +0200
 description: This post is intended for use with the Literary London walking tour and smart learning activities and was originally only available via the Aurasma AR trigger.
-categories: [Learning Journeys, Literary London]
+categories: [Literary London, Learning Journeys]
 tags: [learning-point, London]
+image: St_Olave_Seething_Lane_London_EC3_-_East_end_-_geograph.org_.uk_-_1077523.jpg
 ---
 
 **St Olave's, Literary London, By Pen Lister. October 9, 2017. Categories: Literary London, Learning Journeys. Tags: learning-point, London.**
@@ -23,7 +24,7 @@ Late commonwealth, Restoration. Church dedications to St Olave suggest the prese
 
 Point of Interest: The Ship, Pevsner, 'most enjoyable late Victorian pub exterior', 1887.
 
-<!-- ![title text here]({{site.baseurl}}/assets/images/...) -->
+---
 
 #### **Aspects of this place to think about**
 
@@ -58,4 +59,37 @@ By Pen Lister October 9, 2017
 
 Further resources for St Olave, Hart Street, London.
 
-( add resources here)
+### Samuel Pepys, in his own words (video)
+An animated voice over of Pepys reading entries from his journal about the plague
+[https://www.youtube.com/watch?v=C9wpmpwwFEU](https://www.youtube.com/watch?v=C9wpmpwwFEU)
+### Medieval London St Olave's (resources)
+Further links from the medieval London website
+[https://medievallondon.ace.fordham.edu/collections/show/52](https://medievallondon.ace.fordham.edu/collections/show/52)
+### Leake's Survey of the City
+After the Great Fire of 1666 - Engraved By W. Hollar, 1667
+http://www.british-history.ac.uk/no-series/london-map-leake/1667
+### Animated flyover of London before the Great Fire of 1666
+3 D modelled video created by six students at De Montfort University
+[https://youtu.be/SPY-hr-8-M0](https://youtu.be/SPY-hr-8-M0)
+### Inhabitants of London in 1638: St. Olaves, Hart Street
+A fascinating list of people who paid rent for premises in the parish of St Olaves
+http://www.british-history.ac.uk/no-series/london-inhabitants/1638/pp166-168
+### Images of the Great Plague
+Guildhall library Pinterest page about the Great Plague of 1665
+[https://www.pinterest.co.uk/guildhalllib/the-great-plague-1665/](https://www.pinterest.co.uk/guildhalllib/the-great-plague-1665/)
+### Buildings that survived the Great Fire 
+Buildings that survived the Great Fire
+[http://www.historic-uk.com/HistoryMagazine/DestinationsUK/Survivors-of-the-Great-Fire-of-London/](https://www.pinterest.co.uk/guildhalllib/the-great-plague-1665/)
+### Pepys on the Great Fire of London
+Pepys on the Great Fire - see especially Sept 2, 3, 4, 5 1666
+[https://www.pepysdiary.com/encyclopedia/10319/#references%20](https://www.pepysdiary.com/encyclopedia/10319/#references%20)
+### Entries in Pepys’s diaries about St Olave’s
+St Olave Hart Street ('St Ghastly Grim')
+[https://www.pepysdiary.com/encyclopedia/1214/#references](https://www.pepysdiary.com/encyclopedia/1214/#references)
+
+### St Olave Hart Street ('St Ghastly Grim')
+St Olave Hart Street is one of the few medieval churches to survive the Great Fire of London [...] the burial place of Samuel Pepys
+[http://www.britainexpress.com/London/st-olave-hart-street.htm](http://www.britainexpress.com/London/st-olave-hart-street.htm)
+### Tales of St Ghastly Grim from Hidden London
+Pepys lived in the parish for 14 years and his diary includes many observations of goings-on at St Olave’s services.
+[http://hidden-london.com/the-guide/st-olave-hart-street/](http://hidden-london.com/the-guide/st-olave-hart-street/)
