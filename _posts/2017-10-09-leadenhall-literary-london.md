@@ -4,7 +4,7 @@ title:  "Leadenhall, Literary London"
 date:   2016-10-10 10:30:30 +0200
 description: This post is intended for use with the Literary London walking tour and smart learning activities and was originally only available via the Aurasma AR trigger.
 categories: [Literary London, Learning Journeys]
-tags: [learning-point, London]
+tags: [learning-point, london]
 image: Leadenhall_Market_entrance_Illustrated_London_New_1881.jpg
 ---
 

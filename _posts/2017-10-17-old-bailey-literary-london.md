@@ -4,11 +4,11 @@ title:  "The Old Bailey, Literary London"
 date:   2017-10-17 10:30:30 +0200
 description: This post is intended for use with the Literary London walking tour and smart learning activities and was originally only available via the Aurasma AR trigger.
 categories: [Literary London, Learning Journeys]
-tags: [learning-point, London]
+tags: [learning-point, london]
 image: Hangin_outside_Newgate_Prison.jpg
 ---
 
-**The Old Bailey, Literary London, By Pen Lister. October 13, 2017. Categories: Tags: learning-point, London**
+**The Old Bailey, Literary London, By Pen Lister. October 13, 2017. Categories: Literary London, Learning Journeys. Tags: learning-point, London**
 
 ![Hanging outside Newgate Prison]({{site.baseurl}}/assets/images/Hangin_outside_Newgate_Prison.jpg)
 

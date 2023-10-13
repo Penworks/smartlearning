@@ -31,17 +31,20 @@ for reversed order using https://templates.supply/sort-jekyll-collection-by-reve
 ---
 
 ## Tag Cloud
-<!--using modified code from https://superdevresources.com/tag-cloud-jekyll/ -->
 
-{% assign tags = site.tags | sort %}
-<div class="tagger"><ul class="tagcloud">{% for tag in tags %}
-  <li>
-    <a href="{{ site.baseurl }}/tag/{{ tag | first | slugify }}/"
-        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
-            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
-    </a></li>
+{% assign tags = site.tags | sort %}       
+<div class="tagger">
+  <ul class="tagcloud">{% for tag in tags %}
+    <li><a href="{{ site.baseurl }}/tag/{{ tag | first | slugify }}"
+          style="font-size: {{ tag | last | size  |  times: 4 | plus: 80 }}%">
+              {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+      </a></li>
+{% endfor %}
+</ul>
+</div> 
 
-{% endfor %}</ul></div>
+<!--using modified code from https://superdevresources.com/tag-cloud-jekyll/-->
+
 
 ---
 

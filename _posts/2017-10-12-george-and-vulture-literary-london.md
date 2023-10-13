@@ -4,11 +4,11 @@ title:  "George & Vulture, Literary London"
 date:   2017-10-12 10:30:30 +0200
 description: This post is intended for use with the Literary London walking tour and smart learning activities and was originally only available via the Aurasma AR trigger.
 categories: [Literary London, Learning Journeys]
-tags: [learning-point, London]
+tags: [learning-point, london]
 image: George_and_Vulture_Inn_London.jpg
 ---
 
-**George & Vulture, Literary London, By Pen Lister. October 12, 2017. Categories: Tags: learning-point, London**
+**George & Vulture, Literary London, By Pen Lister. October 12, 2017. Categories: Literary London, Learning Journeys. Tags: learning-point, London**
 
 
 ![title text here]({{site.baseurl}}/assets/images/George_and_Vulture_Inn_London.jpg)

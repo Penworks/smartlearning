@@ -3,7 +3,7 @@ layout: post
 title:  "A brief explainer on Smart Learning"
 date:   2023-09-29 10:30:30 +0200
 categories: [General, Tutorials and Guides]
-tags: [London, technology, feedback, Malta]
+tags: [technology, feedback, maps]
 image: genart01.jpg
 ---
 

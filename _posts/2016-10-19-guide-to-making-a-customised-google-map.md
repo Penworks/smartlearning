@@ -138,9 +138,3 @@ _That's it, you're done! I hope you enjoyed making a custom Google Map. I've inc
 - [Useful alternate tutorial on custom Google Maps](https://www.create.net/support/218-how-to-pin-point-multiple-locations-on-google-maps.html)
 
 
-
-
-
-
----
-

@@ -4,7 +4,7 @@ title:  "First Valletta Journey"
 date:   2016-10-16 10:30:30 +0200
 description: The first learning journey map using Google Maps. This journey is a first example of learning using location based information to guide where to go and what you can find out when you get there.
 categories: [Tutorials and Guides, Learning Journeys]
-tags: [Malta]
+tags: [malta]
 image: 
 ---
 

@@ -117,18 +117,36 @@ blockquote {
 
 
 /* Related posts */
+
+
+
+/* code modified from webjeda */
+
+.related {
+
+}
+
 .rect {
     border-top: 3px solid #333;
     border-bottom: 3px solid #333;
     padding-top: 15px;
-    margin:0 auto;
+    margin: 0 auto;
+    font-size: 0.9em;
+    	padding-left: 20px;
 }
-
+.rel img {
+	width: 150px;
+	object-fit:cover;
+}
 .rel {
-    width: 200px;
+		min-height: 130px;
+    width: 160px;
     display: inline-block;
     padding: 5px;
+    margin: 5px 5px 5px 10px;
     opacity: 0.8;
+    background-color: #ddd;
+    border-radius: 2px;
 }
 
 .rel hover {
@@ -137,7 +155,28 @@ blockquote {
 
 
 
+/* 
+from stackoverfow: https://stackoverflow.com/questions/60941119/how-to-zoom-into-image-while-keeping-dimensions-the-same-in-css
 
+.related {
+    display: flex;
+}
+.related > div {
+    margin: 10px;
+    overflow: hidden;
+    flex-grow: 1;
+}
+.related-img {
+    width: 100%;
+    height: 100%;
+    will-change: transform;
+    transition: transform .2s ease;
+}
+.related-img:hover{
+    transform: scale(2);
+}
+
+*/
 
 
 /*====================
