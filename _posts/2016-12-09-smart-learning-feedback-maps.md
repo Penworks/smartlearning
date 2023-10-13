@@ -3,8 +3,8 @@ layout: post
 title:  "Smart Learning Feedback Maps"
 date:   2016-12-09 10:30:30 +0200
 description: Visualisations of feedback from learners taking part in smart learning journeys
-categories: [Tutorials and Guides, Maps]
-tags: [feedback]
+categories: [Tutorials and Guides]
+tags: [feedback, maps]
 image: smart-learning-feedback-maps-screenshot-2021-02-14-07_28_27.png
 ---
 

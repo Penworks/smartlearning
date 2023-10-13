@@ -3,12 +3,12 @@ layout: post
 title:  "Literary London Map"
 date:   2017-09-24 10:30:30 +0200
 description: This post is the map of the Literary London Smart Learning Journey 
-categories: [Literary London, Learning Journeys, Maps]
-tags: [London]
+categories: [Literary London, Learning Journeys]
+tags: [London, maps]
 image: 
 ---
 
-**Literary London Map, By Pen Lister. September 24, 2017. Categories: Literary London, Learning Journeys, Maps. Tags: maps, UK, London**
+**Literary London Map, By Pen Lister. September 24, 2017. Categories: Literary London, Learning Journeys, Maps. Tags: maps, London**
 
 
 This is the _**Literary London Smart Learning Journey** Map_. This journey includes several locations, beginning at St Olave's and ending at Dr Samuel Johnson's House. Using the Aurasma mobile app to access augmented reality digital content about each location, learners experience an authentic context for their learning. Edmodo is used for learner collaboration and uploading learner generated content._

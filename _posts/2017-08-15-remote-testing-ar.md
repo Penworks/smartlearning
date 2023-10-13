@@ -8,7 +8,7 @@ tags: [technology]
 image: remote-testing-ar-annie-spratt-121599-op.jpg
 ---
 
-**Remote Testing AR, By Pen Lister. August 15, 2017. Categories: Tags: apps, aurasma, images**
+**Remote Testing AR, By Pen Lister. August 15, 2017. Categories: Tags: technology**
 
 ![title text here]({{site.baseurl}}/assets/images/remote-testing-ar-annie-spratt-121599-op.jpg)
 
