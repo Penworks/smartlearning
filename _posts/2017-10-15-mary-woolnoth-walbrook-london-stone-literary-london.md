@@ -3,7 +3,7 @@ layout: post
 title:  "St Mary Woolnoth, Walbrook & The London Stone, Literary London"
 date:   2017-10-15 10:30:30 +0200
 description: This post is intended for use with the Literary London walking tour and smart learning activities and was originally only available via the Aurasma AR trigger.
-categories: [Literary London, Learning Journeys]
+categories: [literary-london, learning-journeys]
 tags: [learning-point, london]
 image: 1024px-London_Lombard_Street_and_King_William_Street_geograph-3070268-by-Ben-Brooksbank.jpg
 ---

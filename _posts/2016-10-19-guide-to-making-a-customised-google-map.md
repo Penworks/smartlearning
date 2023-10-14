@@ -3,7 +3,7 @@ layout: post
 title:  "Guide to making a customised Google map"
 date:   2016-10-10 10:30:30 +0200
 description: This post is intended for those who are creating learning journey Points of Interest which form a learning experience with a single theme or topic. You need to have a basic grasp of how Google Maps accounts work, and understand general concepts of GPS location based technology.
-categories: [Tutorials and Guides]
+categories: [tutorials-and-guides]
 tags: [technology, maps]
 image: guide-to-making-a-customised-google-map-screenshot-edit-size1.jpg
 vimeoId: 187983602

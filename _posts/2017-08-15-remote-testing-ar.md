@@ -3,7 +3,7 @@ layout: post
 title:  "Remote Testing AR"
 date:   2017-08-15 10:30:30 +0200
 description: This post is meant for anyone who is helping with 'remote testing' of Aurasma (aka HP Reveal) Auras.
-categories: [Tutorials and Guides, General]
+categories: [tutorials-and-guides, general]
 tags: [technology]
 image: remote-testing-ar-annie-spratt-121599-op.jpg
 ---

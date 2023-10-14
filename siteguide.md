@@ -2,23 +2,31 @@
 layout: default
 title: SiteGuide
 permalink: /siteguide/
-description: This page contains all the categorized posts from the smart learning website. This is an archive of work from 2016-2021.
+description: This page contains the archive of all the posts from the smart learning website, categorized and tagged. This archive is from 2016-2021. A few posts dat from a slightly later period.
 ---
-This page provides ways to navigate the content of the archive. Use category collections to view content related to catgeoy or use the chronological list of posts to see conent in a timeline of often posts in simialr or related contexts.
+This page provides ways to navigate the content of the archive. 
+Use category collections or tag collections to view content related to category or tag. 
+Use the chronological list of posts to see content in a timeline of posts often similar or related. Key collections are the Literary London and Malta Democracy smart learning journey activities, the technology tagged posts and the Tutorials and Guides category.
 
+***NB: This site contains information about Aurasma/HP Reveal that is archived and no longer current - that app is defunct and not available as of 2021. The site is preserved in authenticity to offer ideas, approaches and the main content that was developed for smart learning journey actities to demonstrate practical ways that these kinds of learning expereinces can be designed and implemented.***
+
+---
 
 ## Posts by Category
 <!--
 using the code from https://blog.webjeda.com/jekyll-categories/
 for reversed order using https://templates.supply/sort-jekyll-collection-by-reverse-order-and-limit-results/ 
 -->
+
+
+
 <div id="archives">
 {% for category in site.categories reversed %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
-    <h4 class="category-head">{{ category_name }}</h4>
+    <h4 class="category-head">{{ category_name | capitalize }}</h4>
     <a name="{{ category_name | slugize }}"></a>
        <ul id="secondary-nav"> {% for post in site.categories[category_name] %}
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>  

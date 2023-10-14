@@ -3,7 +3,7 @@ layout: post
 title:  "Literary London Map"
 date:   2017-09-24 10:30:30 +0200
 description: This post is the map of the Literary London Smart Learning Journey 
-categories: [Literary London, Learning Journeys]
+categories: [literary-london, learning-journeys]
 tags: [maps, london]
 image: img-placeholder.jpg
 ---

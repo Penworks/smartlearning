@@ -38,6 +38,10 @@ Some non-original content on this site is ‘copyrighted’, statements might al
 ## A note on Google content
 This website has not knowingly taken any content sourced via Google searching that has either not already been clearly made available for re-use, or where permission has subsequently been sought for use (see statement above). 
 
+### Other credits
+
+Placeholder image courtesy of [rawpixel. com on Freepik](https://www.freepik.com/free-vector/illustration-gallery-icon_2922280.htm)
+
 ### Helpful links on copyright licensing:
  - Creative Commons Licenses explained: [https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
  - Ported and Unported Creative Commons licences explained: [https://creativecommons.org/faq/#what-are-the-international-unported-creative-commons-licenses-and-why-does-cc-offer-ported-licenses](https://creativecommons.org/faq/#what-are-the-international-unported-creative-commons-licenses-and-why-does-cc-offer-ported-licenses)

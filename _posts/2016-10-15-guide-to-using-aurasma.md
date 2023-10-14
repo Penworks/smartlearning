@@ -3,7 +3,7 @@ layout: post
 title:  "Guide to Using Aurasma"
 date:   2016-10-15 10:30:30 +0200
 description: This post is aimed at those wishing to use Aurasma to create an augmented reality interactive experience. It also includes information on how to make a geofenced experience, and other useful info and links on using Aurasma. (NB Aurasma was later called HP Reveal.)
-categories: [Tutorials and Guides, General]
+categories: [tutorials-and-guides, general]
 tags: [technology]
 image: guide-to-using-aurasma-screenshot-2016-10-15-at-15.51.57.png
 ---

@@ -3,12 +3,12 @@ layout: post
 title:  "First Valletta Journey"
 date:   2016-10-16 10:30:30 +0200
 description: The first learning journey map using Google Maps. This journey is a first example of learning using location based information to guide where to go and what you can find out when you get there.
-categories: [Tutorials and Guides, Learning Journeys]
-tags: [malta]
+categories: [tutorials-and-guides, malta-democracy]
+tags: [malta, learning-journey]
 image: 
 ---
 
-**First Valletta Journey, By Pen Lister. October 11, 2016. Categories: Tutorials and Guides, Learning Journeys, Maps Tags: maps, journeys**
+**First Valletta Journey, By Pen Lister. October 11, 2016. Categories: Tutorials and Guides, Malta Democracy, Maps Tags: maps, learning-journey**
 
 
 ## **Instructions**
