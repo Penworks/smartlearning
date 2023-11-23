@@ -3,8 +3,8 @@ layout: post
 title:  "George & Vulture, Literary London"
 date:   2017-10-12 10:30:30 +0200
 description: This post is intended for use with the Literary London walking tour and smart learning activities and was originally only available via the Aurasma AR trigger.
-categories: [literary-london, learning-journeys]
-tags: [learning-point, london]
+categories: [literary-london]
+tags: [london]
 image: George_and_Vulture_Inn_London.jpg
 ---
 

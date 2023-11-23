@@ -5,7 +5,7 @@ date:   2018-03-01 10:30:30 +0200
 description: This post is intended for use with the Malta Democracy walking tour and smart learning activities.
 categories: [malta-democracy]
 tags: [malta,maps]
-image: 
+image: img-placeholder.jpg
 ---
 
 **Malta Democracy Map, By Pen Lister. March 1, 2018. Categories: Maltese Democracy. Tags: maps.**
@@ -27,8 +27,6 @@ _What you need to do:_
 
 - _Set up an account in Edmodo, to work with your group on the activity, upload content, share and discuss content with others in your group_
 
-![Shape54](RackMultipart20230926-1-xe4lmc_html_981da44633f54b92.gif)
-
 ## **Journey Locations**
 
 The route seen in the map contains all location points. All locations provide Augmented Reality ( **AR** ) content (_learning stops_). Two locations do not have associated tasks (indicated below).
@@ -43,7 +41,3 @@ The route seen in the map contains all location points. All locations provide Au
 - Republic Plaque (no tasks)
 - Independence Plaque (no tasks)
 - Sette Giugno Monument
-
-![Shape55](RackMultipart20230926-1-xe4lmc_html_981da44633f54b92.gif)
-
-#

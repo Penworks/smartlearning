@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Paternoster Row & Temple Bar Gate, Literary London"
-date:   2017-10-13 10:30:30 +0200
+title:  "title"
+date:   2017-10-10 10:30:30 +0200
 description: This post is intended for use with the Literary London walking tour and smart learning activities and was originally only available via the Aurasma AR trigger.
-categories: [Literary London, Learning Journeys]
-tags: [learning-point, London]
-image: Paternoster_Amusement_for_John_Bull_in_St._Jamess_street.jpg
+categories: [literary-london]
+tags: [london]
+image: 
 ---
+
 **title, By Pen Lister. Date. Categories: Tags:**
 
 

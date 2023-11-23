@@ -19,7 +19,7 @@ for reversed order using https://templates.supply/sort-jekyll-collection-by-reve
 -->
 
 {% for category in site.categories %}
-<p>{{category.name | }}</p>
+<p>{{category.name}}</p>
 {% endfor %}
 
 
@@ -82,11 +82,10 @@ for reversed order using https://templates.supply/sort-jekyll-collection-by-reve
 
 
 ## All posts in chronological order
-<nav id="secondary-nav">
-  <ul>
+<nav>
+  <ul id="secondary-nav">
 {% for p in site.posts %}
- <li><span>{{ p.date | date_to_string }}</span> &nbsp; <a href="{{ p.url | relative_url }}" itemprop="url">
-            <span itemprop="name"> {{ p.title }}</span></a></li>
+ <li>{{ p.date | date_to_string }} &nbsp; <a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
 {% endfor %}
 
 </ul>

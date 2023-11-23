@@ -3,8 +3,8 @@ layout: post
 title:  "St Olave's, Literary London"
 date:   2017-10-09 10:30:30 +0200
 description: This post is intended for use with the Literary London walking tour and smart learning activities and was originally only available via the Aurasma AR trigger.
-categories: [literary-london, learning-journeys]
-tags: [learning-point, london]
+categories: [literary-london]
+tags: [london]
 image: St_Olave_Seething_Lane_London_EC3_-_East_end_-_geograph.org_.uk_-_1077523.jpg
 ---
 

@@ -1,7 +1,6 @@
 ---
 image_path: /assets/images/
 ---
-
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
@@ -71,7 +70,7 @@ image_path: /assets/images/
                 <hr>
                 <div class="related">
                     <h4>Related Posts</h4>
-                   <!-- https://blog.webjeda.com/jekyll-related-posts/ -->
+                    <!-- https://blog.webjeda.com/jekyll-related-posts/ -->
                     <div class="rect">
                         {% assign maxRelated = 6 %}
                         {% assign minCommonTags = 1 %}
@@ -103,24 +102,21 @@ image_path: /assets/images/
                         {% endfor %}
                     </div>
                 </div>
-
-
             </section>
             <footer>
-                        {% assign tags = site.tags | sort %}
-          <div class="tagger">
-            <ul class="tagcloud">{% for tag in tags %}
-              <li><a href="{{ site.baseurl }}/tag/{{ tag | first | slugify }}"
-                    style="font-size: {{ tag | last | size  |  times: 4 | plus: 80 }}%">
-                        {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
-                </a></li>
-          {% endfor %}
-          </ul></div>
-        {% if site.github.is_project_page %}
-          {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
-          <h5>{{ site.description }} {{ site.github.project_tagline }}</h5>
-        {% endif %}
-        
+                {% assign tags = site.tags | sort %}
+                <div class="tagger">
+                    <ul class="tagcloud">{% for tag in tags %}
+                        <li><a href="{{ site.baseurl }}/tag/{{ tag | first | slugify }}" style="font-size: {{ tag | last | size  |  times: 4 | plus: 80 }}%">
+                                {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+                            </a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% if site.github.is_project_page %}
+                {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
+                <h5>{{ site.description }} {{ site.github.project_tagline }}</h5>
+                {% endif %}
                 {% if site.github.is_project_page %}
                 {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
                 <h5>{{ site.description }} {{ site.github.project_tagline }}</h5>

@@ -41,7 +41,7 @@ ul#menu-main-navigation {
 
 #primary-nav, #secondary-nav {
 	max-width: 620px;
-  margin: 0 auto;
+    margin: 0 auto;
 	font-family: inherit;
 	font-weight:600 !important;
 }
@@ -68,10 +68,11 @@ ul#menu-main-navigation {
 #secondary-nav li {
 /* position:relative;
 left: 20px;*/
+    display: flex;
 	list-style-type: "- ";
 	list-style-position: inside;
 	padding: 5px 0px 5px 0px;
-	text-indent: 1em;
+	/*text-indent: 1em;*/
 }
 
 blockquote {    

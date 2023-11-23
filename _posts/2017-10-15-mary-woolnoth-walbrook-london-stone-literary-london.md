@@ -3,8 +3,8 @@ layout: post
 title:  "St Mary Woolnoth, Walbrook & The London Stone, Literary London"
 date:   2017-10-15 10:30:30 +0200
 description: This post is intended for use with the Literary London walking tour and smart learning activities and was originally only available via the Aurasma AR trigger.
-categories: [literary-london, learning-journeys]
-tags: [learning-point, london]
+categories: [literary-london]
+tags: [london]
 image: 1024px-London_Lombard_Street_and_King_William_Street_geograph-3070268-by-Ben-Brooksbank.jpg
 ---
 
@@ -106,5 +106,23 @@ Remember to focus on the trigger image using the Aurasma camera, centering the i
 Featured image by Ben Brooksbank , via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:London_Lombard_Street_and_King_William_Street_geograph-3070268-by-Ben-Brooksbank.jpg).
 
 
+## Woolnoth Resources
 
+By Pen Lister October 22, 2017 Categories: Literary London
+
+### London Unreal City (7:04)
+Excerpt from TS Eliot's The Wasteland, and Debussy's Beau Soir, published by HarryLlywelyn
+[https://youtu.be/pMXp4tSUm8w](https://youtu.be/pMXp4tSUm8w)
+### Wendy Cope, The Waste Land: Five Limericks
+"The Thames runs, bones rattle, rats creep; Tiresias fancies a peep-- A typist is laid, A record is played-- Wei la la. After this it gets deep"
+[http://thebestamericanpoetry.typepad.com/the_best_american_poetry/2009/09/the-waste-land-five-limericks-by-wendy-cope.html](http://thebestamericanpoetry.typepad.com/the_best_american_poetry/2009/09/the-waste-land-five-limericks-by-wendy-cope.html)
+### An Occult Psychogeography of Hawksmoor’s London Churches
+The following tour of London [...] a gruelling 45-mile route visiting lesser known occult locations spread across the British capital, and connecting in its path a whole world of mythologies from Queen Boadicea to Jack the Ripper
+[http://www.thebohemianblog.com/2015/10/an-occult-psychogeography-of-hawksmoors-london-churches.html](http://www.thebohemianblog.com/2015/10/an-occult-psychogeography-of-hawksmoors-london-churches.html)
+### Unreal City/The Wasteland (1:20)
+A cyber 3 D animated dark fantasy. Second of three films for launch of Poetry Movement, directed by Icecream.
+[https://vimeo.com/132102175](https://vimeo.com/132102175)
+### Roman London AD 50-410
+Discover how Londinium came to life and what daily life was like in the city 2000 years ago
+[https://www.museumoflondon.org.uk/museum-london/permanent-galleries/roman-london](https://www.museumoflondon.org.uk/museum-london/permanent-galleries/roman-london)
 
