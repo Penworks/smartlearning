@@ -2,13 +2,13 @@
 layout: default
 title: SiteGuide
 permalink: /siteguide/
-description: This page contains the archive of all the posts from the smart learning website, categorized and tagged. This archive is from 2016-2021. A few posts dat from a slightly later period.
+description: This page contains the archive of all the posts from the smart learning website, categorized and tagged. This archive is from 2016-2021. A few posts date from a slightly later period.
 ---
 This page provides ways to navigate the content of the archive. 
 Use category collections or tag collections to view content related to category or tag. 
 Use the chronological list of posts to see content in a timeline of posts often similar or related. Key collections are the Literary London and Malta Democracy smart learning journey activities, the technology tagged posts and the Tutorials and Guides category.
 
-***NB: This site contains information about Aurasma/HP Reveal that is archived and no longer current - that app is defunct and not available as of 2021. The site is preserved in authenticity to offer ideas, approaches and the main content that was developed for smart learning journey actities to demonstrate practical ways that these kinds of learning expereinces can be designed and implemented.***
+***NB: This site contains information about Aurasma/HP Reveal that is archived and no longer current - that app is defunct and not available as of 2021. Other apps that are referred to may also be now unavailable. The site is preserved in authenticity to offer ideas, approaches and the main content that was developed for smart learning journey activities to demonstrate practical ways that these kinds of learning expereinces can be designed and implemented.***
 
 ---
 
