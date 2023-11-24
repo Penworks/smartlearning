@@ -25,6 +25,6 @@ image: downloads-1618588590706-bac3c25b3d41.jpg
   - [Locations and content for AR in Literary London (PDF)]({{site.baseurl}}/assets/images/Journey_PoI_AR-content_LiteraryLondon.pdf)
 
 - Map
-  - [Literary London Map]({{site.baseurl}}/assets/images/london-map.pdf)
+  - [Literary London Map (PDF)]({{site.baseurl}}/assets/images/london-map.pdf)
 
 _img courtesy_ [_@polarmermaid_](https://unsplash.com/@polarmermaid)

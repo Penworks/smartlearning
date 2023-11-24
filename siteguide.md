@@ -12,25 +12,43 @@ Use the chronological list of posts to see content in a timeline of posts often 
 
 ---
 
+# In Page Links
+
+## Categories
+<div class="siteguide-hotlinks">
+  {% for category in site.categories reversed %}
+   {% capture category_name %}{{ category | first }}{% endcapture %}
+    <span><a href="#{{category_name}}">{{category | first | capitalize | replace: '-', ' ' }}</a></span>
+    {% unless forloop.last %} | {% endunless %}
+{% endfor %}</div>
+
+
+## Tags 
+
+<div class="siteguide-hotlinks">
+  {% for tag in site.tags reversed %}
+   {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    <span><a href="#{{tag_name}}">{{tag_name}}</a></span>
+    {% unless forloop.last %} | {% endunless %}
+{% endfor %}</div>
+
+
+---
+
 ## Posts by Category
 <!--
 using the code from https://blog.webjeda.com/jekyll-categories/
 for reversed order using https://templates.supply/sort-jekyll-collection-by-reverse-order-and-limit-results/ 
 -->
 
-{% for category in site.categories %}
-<p>{{category.name}}</p>
-{% endfor %}
-
-
-
 <div id="archives">
 {% for category in site.categories reversed %}
   <div class="category-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <!-- <div id="#{{ category_name | slugize }}"></div> -->
+    <a id="{{ category_name | slugize }}"></a>
     <h4 class="category-head">{{ category_name | capitalize | replace: '-', ' ' }}</h4>
-    <div class="cat-subgroup"> <a name="{{ category_name | slugize }}"></a>
+    <div class="cat-subgroup"> <!-- <a id="{{ category_name | slugize }}"></a> -->
        <ul id="secondary-nav"> {% for post in site.categories[category_name] %}
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>  
     {% endfor %} </ul>
@@ -67,9 +85,10 @@ for reversed order using https://templates.supply/sort-jekyll-collection-by-reve
   <div class="tag-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
    <!--  <div id="#{{ tag_name | slugize }}"></div> -->
+   <a name="{{ tag_name | slugize }}"></a>
     <p></p>
     <h4 class="tag-head">{{ tag_name }}</h4>
-   <div class="tag-subgroup"> <a name="{{ tag_name | slugize }}"></a>
+   <div class="tag-subgroup"> <!-- <a name="{{ tag_name | slugize }}"></a> -->
        <ul id="secondary-nav"> {% for post in site.tags[tag_name] %}
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>  
     {% endfor %} </ul>
