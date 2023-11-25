@@ -45,10 +45,9 @@ for reversed order using https://templates.supply/sort-jekyll-collection-by-reve
 {% for category in site.categories reversed %}
   <div class="category-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    <!-- <div id="#{{ category_name | slugize }}"></div> -->
     <a id="{{ category_name | slugize }}"></a>
     <h4 class="category-head">{{ category_name | capitalize | replace: '-', ' ' }}</h4>
-    <div class="cat-subgroup"> <!-- <a id="{{ category_name | slugize }}"></a> -->
+    <div class="cat-subgroup"> 
        <ul id="secondary-nav"> {% for post in site.categories[category_name] %}
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>  
     {% endfor %} </ul>
@@ -79,16 +78,16 @@ for reversed order using https://templates.supply/sort-jekyll-collection-by-reve
 
 
 ## Posts by Tag
-<!--using the code from https://blog.webjeda.com/jekyll-categories/-->
+<!--using the code from https://blog.webjeda.com/jekyll-categories/
+penworks added ids for hotlinking -->
+
 <div id="archives">
 {% for tag in site.tags reversed %}
   <div class="tag-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
-   <!--  <div id="#{{ tag_name | slugize }}"></div> -->
-   <a name="{{ tag_name | slugize }}"></a>
-    <p></p>
+   <a id="{{ tag_name | slugize }}"></a>
     <h4 class="tag-head">{{ tag_name }}</h4>
-   <div class="tag-subgroup"> <!-- <a name="{{ tag_name | slugize }}"></a> -->
+   <div class="tag-subgroup">
        <ul id="secondary-nav"> {% for post in site.tags[tag_name] %}
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>  
     {% endfor %} </ul>

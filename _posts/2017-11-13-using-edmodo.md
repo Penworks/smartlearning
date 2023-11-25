@@ -5,7 +5,9 @@ date:   2017-11-13 10:30:30 +0200
 description: This post is intended for use with the Literary London or Malta Democracy walking tour and smart learning activities.
 categories: [tutorials-and-guides]
 tags: [technology]
-image: 
+image: edmodo-screenshot-2017-11-13-at-08.16.04.png
+vimeoId: 238190253
+vimeoId1: 239690090
 ---
 
 **Using Edmodo, By Pen Lister. November 13, 2017. Categories: Tutorials & Guides. Tags: technology.**
@@ -28,13 +30,13 @@ _**It's important to note that if you only show your learners the browser based 
 
 ### Getting used to Edmodo mobile
 
-<iframe src="https://player.vimeo.com/video/238190253" width="200" height="360" class="vimeo-link-embed"></iframe>
+{% include vimeoplayer.html id=page.vimeoId %}
 
 This video is an example of how to make a general guide for using Edmodo as a mobile app. This video was made using the [DU ScreenRecorder](https://play.google.com/store/apps/details?id=com.duapps.recorder&hl=en_GB) Android app to screen capture the actions on your mobile phone so you can create actual demonstrations for how to navigate to certain areas of the Edmodo app. It is an exceptionally powerful free mobile video app for Android. If you use iPhone, search for "iPhone screen capture apps" or similar to find a good app for your phone.
 
 ### Uploading Content to Edmodo with the mobile app
 
-<iframe src="https://player.vimeo.com/video/239690090" width="200" height="360"></iframe>
+{% include vimeoplayer.html id=page.vimeoId1 %}
 
 After doing some initial work with Edmodo it became clear that a guide video needed to be made that showed learners how to upload content to their Edmodo group or class, especially when using the mobile app. This video attempts to show various options as well as how to use the backpack which is hidden away on the user profile page.
 

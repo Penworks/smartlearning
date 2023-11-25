@@ -10,9 +10,10 @@ image: Edith_Newbold_Jones_Wharton.jpg
 
 **Snapshots of Republic Street, By Pen Lister. March 4, 2018. Categories: Maltese Democracy Tags: malta**
 
-<!-- <img src="{{site.baseurl}}/assets/images/..." width="350" height="auto"> -->
+*This post contains information about Edith Warton, the name 'Republic Street' and Republic Square (Piazza Regina).*
 
-![title text here]({{site.baseurl}}/assets/images/Edith_Newbold_Jones_Wharton.jpg)
+
+![Edith Warton]({{site.baseurl}}/assets/images/Edith_Newbold_Jones_Wharton.jpg)
 
 ### Edith Wharton
 
@@ -32,7 +33,7 @@ The Strada Reale … with its Opera house, its hotels and photograph shops, is p
 
 ### The name of 'Republic Street'
 
-![title text here]({{site.baseurl}}/assets/images/Valletta_Triq_ir-Repubblika.jpg)
+![The street sign for Republic Street]({{site.baseurl}}/assets/images/Valletta_Triq_ir-Repubblika.jpg)
 
 Triq ir-Repubblika. Frank Vincentz. GFDL/CC BY-SA 3.0. Click to enlarge.
 
@@ -51,3 +52,37 @@ Featured image:[ https://commons.wikimedia.org/wiki/File%3AEdith\_Newbold\_Jones
 ]( https://commons.wikimedia.org/wiki/File%3AEdith_Newbold_Jones_Wharton.jpg ) Image 'Triq ir-Repubblika':[ https://commons.wikimedia.org/wiki/File:Malta\_-\_Valletta\_-\_Triq\_ir-Repubblika\_01\_ies.jpg
 ]( https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_Triq_ir-Repubblika_01_ies.jpg )
 
+ ---
+
+# Republic Square (Piazza Regina)
+
+Published March 31, 2018.
+
+![Republic Square]({{site.baseurl}}/assets/images/1024px-Republic_Square_Valletta_Malta_2014.jpg)
+
+## The Names of Misrah ir-Repubblika (Republic Square)
+
+Over the time Republic square had the following names:
+
+- Piazza Tesoreria
+- Piazza dei Cavallieri
+- Piazza Regina
+- Misrah ir-Repubblika (Maltese)
+
+## History of Misrah ir-Repubblika
+
+During the knights era it was called Piazza dei Cavalieri (Knights Square).
+
+During the British era the Governor Sir Gaspard Le Marchant changed the square into a private garden to be accessed only by the British . The statue of Grand Master Manoel de Vilhena was brought from Fort Manoel to the middle of the square / garden. In 1887 this statue was moved to Floriana and in 1891 replaced by one of Queen Victoria to commemorate her 50 th birthday.
+
+The building on the Northwest side of the square (adjacent to Café Cordina) served as the treasury of the Order. From 1708 – 1849 the first post office was located in this building. Over time it housed government offices, a hotel and a cinema. It now houses the Casino Maltese.
+
+On the other side (southeast) of the square, there is the National Library which was built by the Order when larger premises were required. Though completed in 1796, it did not open due to the French occupation. If was officially inaugurated under the British in 1812 by Civil Commissioner Sir Hildebrand Oakes .
+
+_The Grandmaster's palace is on the North side of the square showing its strategic position and role along time._
+
+Today it is a common meeting place for people who come over to the open air cafes to chat and relax in Republic square.
+
+#### Sources
+
+ Featured image: https://commons.wikimedia.org/wiki/File%3ARepublic\_Square\_Valletta\_Malta\_2014.jpg
