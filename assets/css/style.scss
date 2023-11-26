@@ -1,0 +1,242 @@
+---
+---
+@import "{{ site.theme }}";
+
+
+// ==============
+// nav styles added to the tactile theme penworks.net sept 2023 
+// ===============
+
+a {
+	color: #F45708;
+}
+
+h3 {
+	color: #900C3F;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+ul li {
+	list-style-type: square;
+	/*list-style-type: " - ";*/
+	list-style-position: outside;
+	padding: 5px 0px 5px 0px;
+}
+
+.post-thumb {
+	max-width:90px;
+	max-height: 90px;
+}
+
+#main_content {
+	word-wrap: break-word;
+}
+
+ul#menu-main-navigation {
+	padding-left: 0;
+}
+
+#primary-nav, #secondary-nav {
+	max-width: 620px;
+    margin: 0 auto;
+	font-family: inherit;
+	font-weight:600 !important;
+}
+#primary-nav li {
+	list-style: none !important;
+	padding: 5px 3px 5px 3px;
+}
+#primary-nav li a {
+	color: #6d6d6d;
+}
+#primary-nav li a:hover {
+	color: orange;
+}
+#menu-main-navigation {
+	height: auto;
+	display: flex;
+    justify-content:space-around;
+    list-style-type:none;
+}
+.menu{
+	border-bottom: 4px solid orange !important;
+}
+
+#secondary-nav li {
+/* position:relative;
+left: 20px;*/
+    display: flex;
+	list-style-type: "- ";
+	list-style-position: inside;
+	padding: 5px 0px 5px 0px;
+	/*text-indent: 1em;*/
+}
+
+blockquote {    
+	padding: 0 0 0 30px;
+  margin: 0 0 20px 30px;
+  font-size: 0.9em;
+  font-style: italic;
+  font-weight:600;
+  border-left: 3px solid orange;
+}
+
+/*anchor in page links for siteguide*/
+.siteguide-hotlinks {
+    max-width: 620px;
+    /*border-bottom: 2px solid black;
+    display:inline; */
+    text-transform: capitalize;
+    padding:10px 5px 10px 5px;
+    margin: 5px 0 30px 5px;
+    font-weight:700;
+}
+
+/* ================
+
+Categories & Tags
+
+Siteguide page
+
+============ */
+
+.cat-subgroup, .tag-subgroup {
+	  border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+    padding-top: 15px 5px 15px 20px;
+    margin: 0  auto 30px 0;
+}
+
+.category-head {
+	text-transform: capitalize;
+}
+
+.tagcloud-wrapper {
+    float:right;
+    width:75%;
+}
+
+.tagger {
+    display:inline;
+    width: 50%;
+    /*border-top: none;
+    box-shadow: none;*/
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+    padding-top: 15px 5px 15px 20px;
+    margin: 0  auto;
+
+}
+
+.tagger ul.tagcloud li {
+    list-style: none;
+    display: inline-block;
+    background-color: /*#524f4b*/ #F45708;
+    border-radius: 0.2em;
+    width: auto;
+    padding: 2px 4px 2px 4px;
+    margin: 2px auto;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.tagger .tagcloud a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/* =============
+
+ Related posts 
+
+code modified from webjeda and using flex
+flex from chris coyer!
+
+============== */
+
+
+.rect {
+		display: inline-flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-evenly;
+		align-items: flex-start;
+		align-content: flex-start;
+		gap: 10px 10px; /* row-gap column gap */
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+    padding-top: 15px 5px 15px 20px;
+    margin: 0 auto;
+    font-size: 0.9em;
+}
+
+.rel img {
+	width: 150px;
+	object-fit:cover;
+}
+
+.rel {
+		flex-basis: auto; /* default auto */
+		min-height: 130px;
+    width: 160px;
+    display: inline-block;
+    padding: 5px 5px 5px 10px;
+    margin: 5px 5px 5px 10px;
+    opacity: 0.8;
+    background-color: #ddd;
+    border-radius: 2px;
+}
+
+.rel hover {
+     opacity: 1;    
+}
+
+
+/*====================
+
+STYLES NOT USED
+
+====================== */
+
+/* #secondary-nav li a {
+	color: #6d6d6d;
+}
+#secondary-nav li a:hover {
+	color: orange;
+}
+*/
+
+
+li .menu-item {
+  // display: inline;
+  //  font-size: 1em;
+  //  line-height: 1.5;
+  //  color: #6d6d6d;	
+}
+
+
+/* =========================
+VIDEO RESPONSIVE STYLES TO WORK WITH VIDEOPLAYER INCLUDE 
+*remember to add the vimeo or other video player frontmatter video ID
+this is from https://github.com/nathancy/jekyll-embed-video#responsive-videos
+=======================*/
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,77 @@
+# Jekyll Tactile- make a copyif you want to change theme, it preserves the work better
+# Penworks.net Sept 2023
+# ============================
+#
+# Site settings
+# used to personalize the site.
+# accessed via {{ site.title }}, {{ site.email }}, and so on.
+# create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+# errors for build trying to trace
+
+title: "Smart Learning <em>Activities & Ideas</em>"
+# email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This site is an archive of work containing the technical, design and content used to build smart 
+  learning journeys with augmented reality, maps and communications. 
+  It formed the technical aspects of a PhD in smart learning, 2016-2021.
+tagline: On location and learning
+baseurl: "/smartlearning" # the subpath of your site, e.g. /blog
+url: "https://penworks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+#add exlcusion of ugly category segments in url structure. this is from he categories plugin recommendation
+permalink: /:year/:month/:day/:title:output_ext
+# permalink: /:category/:title/
+github_username:  penworks
+
+# Build settings
+remote_theme: pages-themes/tactile
+#
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+#
+collections:
+category:
+  output: true
+  permalink: /:category/:title
+#  permalink: /:category/:slug 
+  defaults:
+  -
+    scope:
+      path: ""
+      type: categories
+    values:
+      layout: category
+tag:
+  output: true
+  permalink: /:tag/:title/
+  defaults:
+  -
+    scope:
+      path: ""
+      type: tags
+    values:
+      layout: tag
+
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

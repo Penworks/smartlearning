@@ -1,0 +1,39 @@
+---
+layout: default
+permalink: /tag/
+---
+
+
+<!-- get the tag from the url -->
+
+{% assign current_tag = page.url | split: "/" | last %}
+
+<!--
+=============================
+
+this works the same for tags
+
+'for post in site.categories...' is' from the snippet for calling a group of catgeroies. To make this work with the category key value in the front matter it must match the title of the page - eg front matter is:
+
+---
+layout: category
+title: Tutorials and Guides
+description: posts in the category 'tutorials and guides' 
+permalink: category/Tutorials and Guides
+exclude: true  
+---
+
+this was the only way I could get this to ork. Im sure someone else who knows a lot more about Liquid in Jekyll can shed more light. 
+=============================
+-->
+
+<!-- pull the posts from the current tag using current_tag -->
+<ul>{% for post in site.tags[current_tag] %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>  
+    {% endfor %} </ul>
+
+
+
+
+
+
