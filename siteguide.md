@@ -63,8 +63,7 @@ for reversed order using https://templates.supply/sort-jekyll-collection-by-reve
 {% assign tags = site.tags | sort %}       
 <div class="tagger">
   <ul class="tagcloud">{% for tag in tags %}
-    <li><a href="{{ site.baseurl }}/tag/{{ tag | first | slugify }}"
-          style="font-size: {{ tag | last | size  |  times: 4 | plus: 80 }}%">
+    <li><a href="{{ site.baseurl }}/tag/{{ tag | first | slugify }}">
               {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
       </a></li>
 {% endfor %}
