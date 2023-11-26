@@ -46,6 +46,7 @@ Souvenir Malta Independence Celebrations cover
 [https://www.timesofmalta.com/articles/view/20140921/life-features/The-arduous-road-to-independence.536653](https://www.timesofmalta.com/articles/view/20140921/life-features/The-arduous-road-to-independence.536653)
 
 #### Sources
+
  Featured: [https://commons.wikimedia.org/wiki/File%3AA\_view\_of\_shops\_with\_anti-British\_and\_pro-Independence\_signs%2C\_possibly\_on\_Kings\_Street%2C\_Valetta%2C\_Malta\_(5074435957).jpg](https://commons.wikimedia.org/wiki/File%3AA_view_of_shops_with_anti-British_and_pro-Independence_signs%2C_possibly_on_Kings_Street%2C_Valetta%2C_Malta_(5074435957).jpg)
 
 ---
@@ -66,8 +67,7 @@ These images are available to view at their Flickr gallery, and shown here via h
 
 [https://flic.kr/p/7w3M6P](https://flic.kr/p/7w3M6P)
 
-Jum ir-Repubblika / Republic Day – 13/12/1974
- Reference: PHO 4288
+Jum ir-Repubblika / Republic Day – 13/12/1974 Reference: PHO 4288
 
 <img src="{{site.baseurl}}/assets/images/dom-mintoff7871017520_55fd69fac3_n.jpg" width="350" height="auto">
 

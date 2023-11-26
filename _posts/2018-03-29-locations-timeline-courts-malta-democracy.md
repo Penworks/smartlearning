@@ -38,7 +38,7 @@ Additional photo Sir Adrian Dingli [https://www.maltagenealogy.com/libro%20d%27O
 
 Sir Thomas Maitland. Via [Wikimedia](https://commons.wikimedia.org/wiki/File:John_Hoppner_(1758-1810)_-_Portrait_of_Sir_Thomas_Maitland_(1760-1824).jpg), and [Thirlestane Castle Trust](http://www.artuk.org/artworks/lieutenant-general-sir-thomas-maitland-17591824-211019), used with kind permission. 
 
-**1814: Governor** [**Sir Thomas Maitland**](http://www.historyofparliamentonline.org/volume/1790-1820/member/maitland-hon-thomas-1760-1824) (Governor of Malta 1813-1824) abolished the Corte Capitanale, and concentrated in the Gran Castellania the following tribunals:
+**1814: Governor** [Sir Thomas Maitland](http://www.historyofparliamentonline.org/volume/1790-1820/member/maitland-hon-thomas-1760-1824) (Governor of Malta 1813-1824) abolished the Corte Capitanale, and concentrated in the Gran Castellania the following tribunals:
 
 - The Grand Criminal Court
 - The Grand Civil Court
@@ -64,8 +64,6 @@ By this time the current system has evolved from this.
 
 - [Sir Thomas Maitland, historically considered an autocratic ruler](http://www.markedbyteachers.com/university-degree/law/sir-thomas-maitland-is-historically-considered-an-autocratic-ruler-however-he-is-known-for-his-important-legislative-reforms-comment.html)
 - [An early 19th century account of the island](http://www.kingscollections.org/exhibitions/specialcollections/west-of-suez-britain-and-the-mediterranean,-1704-1967/malta/an-early-19th-century-account-of-the-island)
-
-![Shape90](RackMultipart20230926-1-xe4lmc_html_981da44633f54b92.gif)
 
 #### Sources
 

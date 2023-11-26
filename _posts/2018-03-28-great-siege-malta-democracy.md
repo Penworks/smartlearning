@@ -47,8 +47,7 @@ Levée du siège de Malte assiégé par le général Ottoman Mustapha, en septem
 
 The Knights of St John commemorating the Great Siege of Malta of 1565, at Birgu - Citta Vittoriosa on the 6 September 2015. Published by YouTube user hermaron88, 7 Sep 2015
 
-Legacy
-------
+### Legacy
 
 > "Jean de Valette, Grand Master of the Knights of Malta, had a key influence in the victory against Ottomans with his example and his ability to encourage and hold together people as one man. This example had a major impact, bringing together the kings of Europe in an alliance against the previously seemingly invincible Ottomans; the result was the vast union of forces against Ottomans at the [Battle of Lepanto](https://en.wikipedia.org/wiki/Battle_of_Lepanto "Battle of Lepanto") seven years later. Such was the gratitude of Europe for the knights' heroic defense that money soon began pouring into the island, allowing de Valette to construct a fortified city, [Valletta](https://en.wikipedia.org/wiki/Valletta "Valletta"), on Mt. Sciberras. His intent was to deny the position to any future enemies. De Valette himself died in 1568 after suffering a stroke while praying in a chapel." from [https://en.wikipedia.org/wiki/Great\_Siege\_of\_Malta#Aftermath](https://en.wikipedia.org/wiki/Great_Siege_of_Malta#Aftermath)
 

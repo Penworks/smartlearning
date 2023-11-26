@@ -51,7 +51,7 @@ Sources
 
 ![Interior hallway, Grandmasters Palace]({{site.baseurl}}/assets/images/1024px-Grandmasters_Palace_Valletta_n13.jpg)
 
-## **Palace Structure**
+## Palace Structure
 
 - The palace was modified and embellished by the Grand Masters after de Monte, which gave the building a [Baroque](https://en.wikipedia.org/wiki/Baroque_architecture) character (based on new explorations of form, light and shadow, and dramatic intensity).
 - In 1724, the ceilings of the main corridors were decorated with frescoes by [Nicolau Nasoni](https://en.wikipedia.org/wiki/Nicolau_Nasoni), during the magistracy of [António Manoel de Vilhena](https://en.wikipedia.org/wiki/Ant%C3%B3nio_Manoel_de_Vilhena).

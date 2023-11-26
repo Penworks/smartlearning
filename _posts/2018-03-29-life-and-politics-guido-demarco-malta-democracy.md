@@ -77,8 +77,7 @@ This section is about the political life of Guido De Marco, and lists his achiev
   - Gave particular attention to the Maltese Community overseas visiting Maltese migrants in Australia, Canada, the United States, the United Kingdom and smaller communities in a number of other countries.
 
 
-<img src="{{site.baseurl}}/assets/images/Malta_application_EU_membership_1990.jpg
-" width="350" height="auto">
+<img src="{{site.baseurl}}/assets/images/Malta_application_EU_membership_1990.jpg" width="350" height="auto">
 
 Letter of Application to the EEC. By Dans (Own work) [CC BY-SA 4.0 via Wikimedia Commons
 
