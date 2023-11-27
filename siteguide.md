@@ -14,7 +14,14 @@ Use the chronological list of posts to see content in a timeline of posts often 
 
 # In Page Links
 
-links here
+## Categories
+<div class="siteguide-hotlinks">
+  {% for category in site.categories reversed %}
+   {% capture category_name %}{{ category | first }}{% endcapture %}
+    <span><a href="#{{category_name}}">{{category | first | capitalize | replace: '-', ' ' }}</a></span>
+    {% unless forloop.last %} | {% endunless %}
+{% endfor %}</div>
+
 
 ## Tags 
 
