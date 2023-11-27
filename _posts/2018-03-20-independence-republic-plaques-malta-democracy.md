@@ -6,7 +6,7 @@ description: This post is intended for use with the Malta Democracy walking tour
 categories: [malta-democracy]
 tags: [malta]
 image: A_view_of_shops_with_anti-British_and_pro-Independence_signs_possibly_on_Kings_Street_Valetta_Malta_5074435957-ed1.jpg
-# youtubeId: H3qpo6HXaBk
+youtubeId: H3qpo6HXaBk
 # youtubeId1: 8l5Y_sCEE6E
 ---
 
@@ -81,7 +81,7 @@ The day Malta became a Republic – Prime Minister Mr Dom Mintoff together with 
 
 [https://youtube.com/watch?v=H3qpo6HXaBk](https://youtube.com/watch?v=H3qpo6HXaBk)
 
-{% include youtubePlayer.html id="H3qpo6HXaBk" %}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 Courtesy the AP Archive
 
@@ -89,7 +89,7 @@ Courtesy the AP Archive
 
 [https://youtube.com/watch?v=8l5Y\_sCEE6E](https://youtube.com/watch?v=8l5Y_sCEE6E)
 
-{% include youtubePlayer.html id="8l5Y_sCEE6E" %}
+
 
 Courtesy YouTube user Ghaqda Duminku Mintoff, under standard YouTube license
 
