@@ -14,6 +14,7 @@ Use the chronological list of posts to see content in a timeline of posts often 
 
 # In Page Links
 
+<!-- cat links -->
 ## Categories
 <div class="siteguide-hotlinks">
   {% for category in site.categories reversed %}
@@ -24,7 +25,7 @@ Use the chronological list of posts to see content in a timeline of posts often 
 
 
 ## Tags 
-
+<!--  tag links -->
 <div class="siteguide-hotlinks">
   {% for tag in site.tags reversed %}
    {% capture tag_name %}{{ tag | first }}{% endcapture %}
