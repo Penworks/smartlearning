@@ -79,13 +79,13 @@ The day Malta became a Republic – Prime Minister Mr Dom Mintoff together with 
 
 ### Malta Becomes a Republic – 1974, Today In History, 13 Dec 17
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubeplayer.html id=page.youtubeId %}
 
 Courtesy the AP Archive
 
 ### Jum ir-Repubblika 1974 u gurament ta' Duminku Mintoff ta' Prim Ministru
 
-{% include youtubePlayer.html id=youtubeId1 %}
+{% include youtubeplayer.html id=page.youtubeId1 %}
 
 Courtesy YouTube user Ghaqda Duminku Mintoff, under standard YouTube license
 
