@@ -9,7 +9,7 @@ image: downloads-1618588590706-bac3c25b3d41.jpg
 ---
 **Downloads, Literary London & Malta Democracy, By Pen Lister. October 20, 2017. Categories: General Tags:downloads, maps**
 
-![title text here]({{site.baseurl}}/assets/images/downloads-1618588590706-bac3c25b3d41.jpg)
+![info image]({{site.baseurl}}/assets/images/downloads-1618588590706-bac3c25b3d41.jpg)
 
 ## Downloads Malta
 
