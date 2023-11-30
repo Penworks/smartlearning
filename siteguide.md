@@ -12,7 +12,7 @@ Use the chronological list of posts to see content in a timeline of posts often 
 
 ---
 
-# In Page Links
+# Section Links
 
 <!-- cat links -->
 ## Categories
@@ -33,6 +33,18 @@ Use the chronological list of posts to see content in a timeline of posts often 
     {% unless forloop.last %} | {% endunless %}
 {% endfor %}</div>
 
+
+## Stand alone pages
+
+- Introduction (homepage)
+- About
+- Copyright
+- Terms
+
+## Gallery of Images
+
+- Screenshots of the augmented reality interfaces for each location
+- Other general images
 
 ---
 

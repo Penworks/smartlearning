@@ -195,30 +195,6 @@ flex from chris coyer!
      opacity: 1;    
 }
 
-
-/*====================
-
-STYLES NOT USED
-
-====================== */
-
-/* #secondary-nav li a {
-	color: #6d6d6d;
-}
-#secondary-nav li a:hover {
-	color: orange;
-}
-*/
-
-
-li .menu-item {
-  // display: inline;
-  //  font-size: 1em;
-  //  line-height: 1.5;
-  //  color: #6d6d6d;	
-}
-
-
 /* =========================
 VIDEO RESPONSIVE STYLES TO WORK WITH VIDEOPLAYER INCLUDE 
 *remember to add the vimeo or other video player frontmatter video ID
@@ -240,3 +216,60 @@ this is from https://github.com/nathancy/jekyll-embed-video#responsive-videos
   width: 100%;
   height: 100%;
 }
+
+/*====================
+
+GALLERIES!
+This is from https://dmnfarrell.github.io/software/jekyll-galleries
+It does not use plugins
+
+====================== */
+
+ /* div style */
+
+  .image-gallery {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(150px, 1fr));
+    justify-content: center;
+    padding: 4px;
+  }
+
+  .box {
+      flex-basis: 25%;
+      width: 100%;
+      padding: 5px;
+      margin: 2px 2px 2px 2px;
+  }
+
+  .img-gallery {
+    width: 100%;
+  height: 150px;
+    object-fit: cover;
+  transform: scale(1);
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+/*====================
+
+STYLES NOT USED
+
+====================== */
+
+/* 
+#secondary-nav li a {
+    color: #6d6d6d;
+}
+#secondary-nav li a:hover {
+    color: orange;
+}
+li .menu-item {
+  // display: inline;
+  //  font-size: 1em;
+  //  line-height: 1.5;
+  //  color: #6d6d6d;   
+}
+*/

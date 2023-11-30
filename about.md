@@ -2,7 +2,7 @@
 layout: default
 title: About
 permalink: /about/
-description: A quick explainer on what this site is about
+description: A quick explainer on what this site is about. This page was intended to explain to both the casual reader as well as students or staff involved in the research what smart learning was in the context of the doctoral project.
 ---
 
 This site is about informal and formal smart learning. Smart learning uses mobile location based apps for access to subject content and some discussion threads to learn about places and people while out and about in the real world.

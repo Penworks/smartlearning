@@ -54,7 +54,11 @@ tag:
     values:
       layout: tag
 
+# imagesurl: "/mysite/img/"
+# thumbsurl: "/mysite/thumbs/"
 
+imagesurl: "/assets/galleries/"
+thumbsurl: "/assets/thumbs/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
