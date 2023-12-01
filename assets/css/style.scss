@@ -227,7 +227,7 @@ It does not use plugins
 
  /* div style */
 
-  .image-gallery {
+  #image-gallery {
     width: 100%;
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(150px, 1fr));
@@ -243,14 +243,21 @@ It does not use plugins
   }
 
   .img-gallery {
+  border: solid 3px #fff;
     width: 100%;
-  height: 150px;
+  height: 100px;
     object-fit: cover;
   transform: scale(1);
   transition: all 0.3s ease-in-out;
   &:hover {
     transform: scale(1.05);
   }
+}
+
+.thumb-wrap {
+    overflow:hidden;
+    width: 100%;
+    border: 1px solid black;
 }
 
 /*====================

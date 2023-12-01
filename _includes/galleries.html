@@ -1,0 +1,13 @@
+<!-- gallery html from https://dmnfarrell.github.io/software/jekyll-galleries -->
+<div id="image-gallery"> 
+    {% for file in site.static_files %}
+    {% if file.path contains include.folder and file.path contains site.imagesurl %}
+   <div class="box">
+    <a href="{{site.baseurl}}{{ site.imagesurl }}{{ include.folder }}/{{ file.name }}" title="{{ file.name }}"><img src="{{site.baseurl}}{{ site.thumbsurl }}{{ include.folder }}/{{ file.name }}" alt="{{ file.name }}" class="img-gallery" /> </a>
+    </div> 
+
+
+    {% endif %} 
+    {% endfor %}
+</div> 
+

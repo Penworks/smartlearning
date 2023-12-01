@@ -9,8 +9,10 @@ Browse these galleries to see how the HP Reveal (formerly Aurasma) Studio was us
 
 ## Literary London Images
 
-{% include gallery.html folder="literary-london-ar" %}
+{% include galleries.html folder="literary-london-ar" %}
+
+
 
 ## Malta Democracy Images
 
-{% include gallery.html folder="malta-democracy-ar" %}
+{% include galleries.html folder="malta-democracy-ar" %}
