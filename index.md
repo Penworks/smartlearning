@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+permalink: /home/
 description: This site acts as an archive of a website that accompanied a PhD research project into smart learning. The project was live from 2016-2021.
 ---
 

@@ -220,7 +220,8 @@ this is from https://github.com/nathancy/jekyll-embed-video#responsive-videos
 /*====================
 
 GALLERIES!
-This is from https://dmnfarrell.github.io/software/jekyll-galleries
+This is from https://dmnfarrell.github.io/software/jekyll-galleries.
+NB the liquid script from that tutorial does not work
 It does not use plugins
 
 ====================== */
@@ -230,7 +231,7 @@ It does not use plugins
   #image-gallery {
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fill,minmax(100px, 1fr));
     justify-content: center;
     padding: 4px;
   }

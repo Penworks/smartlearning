@@ -36,15 +36,12 @@ Use the chronological list of posts to see content in a timeline of posts often 
 
 ## Stand alone pages
 
-- Introduction (homepage)
-- About
-- Copyright
-- Terms
+- [Introduction]({{site.baseurl}}/home): An introduction to this site.
+- [About]({{site.baseurl}}/about): A broader explanation of what this site was for.
+- [Galleries]({{site.baseurl}}/galleries): Images (mostly screenshots) of the Aurasma/HP Reveal web studio working process to build the AR triggers, and screenshots of the AR triggers themselves.
+- [Copyright]({{site.baseurl}}/copyright): An outline of how copyright issues were dealt with for all the place-based knowledge content used in the triggers.
+- [Terms]({{site.baseurl}}/terms): Terms under which this resource can be used.
 
-## Gallery of Images
-
-- Screenshots of the augmented reality interfaces for each location
-- Other general images
 
 ---
 
